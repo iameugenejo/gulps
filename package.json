@@ -1,7 +1,7 @@
 {
   "name": "gulp-series",
-  "version": "1.0.0",
-  "description": "Gulp non-dependent ordered tasks runner. It solves the issue with the run-sequence module that doesn't abort the task chain when error.",
+  "version": "1.0.1",
+  "description": "Gulp non-dependent ordered tasks runner. It solves the issue with the run-sequence module that doesn't abort the task chain on error.",
   "main": "lib/gulp-series.js",
   "scripts": {
     "test": "mocha"

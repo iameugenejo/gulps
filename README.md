@@ -1,7 +1,7 @@
 gulp-series
 ===============
 
-Alternative to run-sequence solution that temporarily solves sequential task running.
+Alternative to run-sequence solution that temporarily solves an issue with gulp lacking sequential task running capability. And this solves issues with run-sequence, which is officially recommended tool for sequential tasks for gulp, not aborting task chains on error.
 
 This solves issues with run-sequence not aborting task chains on error.
 

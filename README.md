@@ -1,5 +1,7 @@
 gulp-series
 ===============
+[![NPM version](https://badge.fury.io/js/gulp-series.svg)](https://badge.fury.io/js/gulp-series)
+[![NPM downloads](https://img.shields.io/npm/dm/gulp-series.svg?style=flat)](https://www.npmjs.org/package/gulp-series)
 
 Alternative to run-sequence solution that temporarily solves an issue with gulp lacking sequential task running capability. And this solves issues with run-sequence, which is officially recommended tool for sequential tasks for gulp, not aborting task chains on error.
 
